@@ -1,5 +1,5 @@
 # Frontend Mentor Challenge
 
-This project comes from [Tip calculator app](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
+This project comes from [Interactive pricing component](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8).
 
-![preview](/starter_files/design/desktop-preview.jpg "Interactive rating component")
+![preview](/starter_files/design/desktop-preview.jpg "Interactive pricing component")
